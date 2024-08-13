@@ -1,0 +1,5 @@
+3. Talabalar Ro'yxati (Student Registry)
+Models:
+Student (ismi, familiyasi, tug'ilgan sanasi, manzili)
+Course (nomi, krediti, tavsifi)
+Enrollment (talaba, kurs, bahosi)
